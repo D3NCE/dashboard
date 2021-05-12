@@ -22,7 +22,7 @@
     "@angular/platform-browser-dynamic": "~8.2.7",
     "@angular/router": "~8.2.7",
     "bootstrap": "^3.4.1",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "jquery": "^3.4.1",
     "ng-chartjs": "^0.1.2",
     "popper.js": "^1.11.0",
